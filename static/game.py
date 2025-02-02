@@ -210,5 +210,3 @@ async def main():
         await asyncio.sleep(1/60)
 
 asyncio.create_task(main())
-
-asyncio.create_task(main())
