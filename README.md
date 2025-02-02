@@ -85,6 +85,7 @@ uvicorn main:app --reload
 
 ### **8️⃣ 📂 ディレクトリ構成**
 
+```shell
 space-invaders-pyscript/
 │── main.py                # FastAPIサーバ
 │── .gitignore             # Gitで無視するファイル一覧
@@ -97,6 +98,7 @@ space-invaders-pyscript/
 │   └── game.py            # PyScriptによるゲームロジック
 │
 ├── venv/                  # 仮想環境（.gitignore推奨）
+```
 
 ## **9️⃣ 🏗 アーキテクチャ構成**
 
