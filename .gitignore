@@ -1,0 +1,22 @@
+# Python の仮想環境関連
+venv/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+.env
+*.env
+*.venv
+
+# VSCode や PyCharm などのIDE設定
+.vscode/
+.idea/
+*.iml
+
+# OS 固有の不要ファイル
+.DS_Store
+Thumbs.db
+
+# Python関連のログファイル
+*.log
